@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-DF98",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34520968-40a0-4593-848b-8133e10bc941",
+		"tenantId": "4ddd393a-e98a-4404-841f-c4becdd925a5"
+	}
+}
